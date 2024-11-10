@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+    
+        <file alias="config.png">../src/icons/config.png</file>
+        
+        <file alias="poweroff.png">../src/icons/poweroff.png</file>
+        <file alias="poweron.png">../src/icons/poweron.png</file>
+        <file alias="pause.png">../src/icons/pause.png</file>
+        <file alias="paused.png">../src/icons/paused.png</file>
+        <file alias="simoscope.png">../src/icons/simoscope.png</file>
+        <file alias="simoscope-128.png">../src/icons/simoscope-128.png</file>
+        <file alias="about.png">../src/icons/about.png</file>
+        <file alias="help.png">../src/icons/help.png</file>
+        
+    </qresource>
+</RCC>
+
